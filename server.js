@@ -18,6 +18,10 @@ application.get('/tweet', function (req, res) {
         units: "sentence",
         count: 1,
         format: "plain",
+        wordsPerSentence: {
+            max: 9,
+            min: 4
+        }
     })
 
     res.send(JSON.stringify({ response: `${sentence} #gcdigital` }));
