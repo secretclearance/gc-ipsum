@@ -4,15 +4,13 @@ acting
 action plan
 actionables
 ad hoc
-after hours
 agency
 agile
-AI
 analyst
 appendix
 appointment
 approval
-assets
+artefact
 assignment
 ATIP-able
 backchannel
@@ -24,13 +22,10 @@ big picture
 BlackBerry
 blockchain
 blue sky
-boardroom reservation
+boardroom
 briefing note
-budget day
 bureaucracy
-business process owner
-calendar
-casual
+business process
 catalyst
 center of excellence
 champion
@@ -38,23 +33,19 @@ change fatigue
 change management
 chatbot
 citizens
-client
 client-centric
 close of business
-co-champion
 co-design
-collaboration
+collaborative
 collective agreement
 comms
-communications
-community
 compliance
 conference call
 confidential
 conflict of interest
 cost center
 critical
-crown corporate
+the crown
 cubicle
 cutting-edge
 data
@@ -67,7 +58,6 @@ deep dive
 delegation authority
 deliverology
 deployment
-deputy
 design thinking
 digital capacity
 digital transformation
@@ -75,8 +65,6 @@ digitization
 directive
 director
 disrupt
-docket
-English
 entitlements
 environmental scan
 equity
@@ -85,18 +73,13 @@ evergreen
 executive
 exempt
 feedback
-feedback
-final version
 finance
 fiscal
-flesh it out
 flip me
 framework
 free agent
-French
 FWD50
 game changer
-GCconnex
 gcdigital
 gcdocs
 GCpedia
@@ -120,8 +103,6 @@ internet explorer
 invite
 iterate
 jargon
-job shadowing
-joined the call
 key
 leadership
 letter of offer
@@ -133,10 +114,9 @@ manage up
 mandate
 measure
 meeting of the minds
-meetings
+meeting
 memorandum of understanding
-micro missions
-microwave line
+micro-mission
 mission statement
 nextgen
 onboarding
@@ -148,8 +128,7 @@ outlook
 oversight
 parliament
 pension
-pensionable time
-pensionable years
+pensionable
 perception
 performance indicators
 Phoenix
@@ -158,11 +137,8 @@ pizza party
 placemat
 policy
 portage
-potential
 prebrief
-printer
 process
-process improvements
 procurement
 promotion
 Protected B
@@ -175,44 +151,36 @@ reinvent
 renewal
 request for information
 request for proposal
-resources
-responsible
 responsive
-results
+result
 risk
 risk management
+roadmap
 rush translation
 scalability
 scenario
 secondement
 section 32
 service design
-smart cities
-smoke break
 social innovation
 solutionize
-staff retreat
 stakeholder
-standard
 statement of work
 steering committee
 stewardship of public funds
 sticky note
 strategic
-strategy
 stress leave
 sub-committee
 subject matter expert
 summit
 system outage
-systems thinking
 takeaway
 taxi chit
 technovation
 teleworking
 term
-The Cloud
-the globe and mail test
+globe and mail test
 touch base
 track changes
 treasury
@@ -220,16 +188,12 @@ twitter
 union
 value added
 values
-voice communication test
-wagile
 walk the talk
 waterfall
 WebEx
 wheelhouse
 whiteboard
-whole of government
 wordsmith
-workforce adjustment
 working group
 Workplace 2.0
 workshop
