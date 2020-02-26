@@ -1,13 +1,11 @@
 accessibility
-acronym
 acting
 action plan
-actionables
+actionable
 ad hoc
 agency
 agile
 analyst
-appendix
 appointment
 approval
 artefact
@@ -15,44 +13,35 @@ assignment
 ATIP-able
 backchannel
 bed bugs
-behavioural insights
-best practices
+best practice
 bi-lat
 big picture
 BlackBerry
 blockchain
 blue sky
 boardroom
-briefing note
 bureaucracy
-business process
-catalyst
-center of excellence
 champion
 change fatigue
 change management
 chatbot
 citizens
 client-centric
-close of business
 co-design
 collaborative
 collective agreement
 comms
 compliance
-conference call
 confidential
 conflict of interest
 cost center
 critical
-the crown
 cubicle
 cutting-edge
 data
 data center
 data lake
 debrief
-decision-maker
 deck
 deep dive
 delegation authority
@@ -80,10 +69,9 @@ framework
 free agent
 FWD50
 game changer
-gcdigital
 gcdocs
 GCpedia
-going forward
+globe and mail test
 governance
 guideline
 hashtag
@@ -93,10 +81,9 @@ ideation
 ignite
 impartial
 incentivize
-incidentals
+incidental
 indeterminate
 innolab
-innovation lab
 input
 intern
 internet explorer
@@ -113,8 +100,8 @@ mainstream
 manage up
 mandate
 measure
-meeting of the minds
 meeting
+meeting of the minds
 memorandum of understanding
 micro-mission
 mission statement
@@ -127,12 +114,10 @@ out of office
 outlook
 oversight
 parliament
-pension
 pensionable
 perception
-performance indicators
+performance indicator
 Phoenix
-Phoenixed
 pizza party
 placemat
 policy
@@ -154,9 +139,7 @@ request for proposal
 responsive
 result
 risk
-risk management
 roadmap
-rush translation
 scalability
 scenario
 secondement
@@ -167,7 +150,7 @@ solutionize
 stakeholder
 statement of work
 steering committee
-stewardship of public funds
+stewardship
 sticky note
 strategic
 stress leave
@@ -180,18 +163,18 @@ taxi chit
 technovation
 teleworking
 term
-globe and mail test
+the crown
 touch base
 track changes
+translation
 treasury
 twitter
 union
+value
 value added
-values
 walk the talk
 waterfall
 WebEx
-wheelhouse
 whiteboard
 wordsmith
 working group
