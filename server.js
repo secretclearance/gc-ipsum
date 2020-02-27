@@ -18,16 +18,14 @@ application.get('/tweet', function (req, res) {
         units: "sentence",
         count: 1,
         format: "plain",
-        wordsPerSentence: {
-            max: 9,
-            min: 4
-        }
+        sentenceLowerBound: 3,
+        sentenceUpperBound: 7,
     })
 
     res.send(JSON.stringify({ response: `${sentence} #gcdigital` }));
 })
 
-var port = process.env.PORT || 5001;
+var port = process.env.PORT || 5000;
 
 application.use(serveStatic(__dirname + "/dist"));
 
