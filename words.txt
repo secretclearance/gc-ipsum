@@ -27,6 +27,7 @@ change management
 chatbot
 citizens
 client-centric
+cloud to ground
 co-design
 collaborative
 collective agreement
@@ -54,6 +55,7 @@ digitization
 directive
 director
 disrupt
+diversity
 entitlements
 environmental scan
 equity
@@ -74,6 +76,7 @@ GCpedia
 globe and mail test
 governance
 guideline
+hackathon
 hashtag
 high level
 human-centred
@@ -94,6 +97,7 @@ key
 leadership
 letter of offer
 leverage
+loop me in
 low hanging fruit
 lunch and learn
 mainstream
@@ -142,7 +146,7 @@ risk
 roadmap
 scalability
 scenario
-secondement
+secondment
 section 32
 service design
 social innovation
