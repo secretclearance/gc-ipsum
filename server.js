@@ -22,7 +22,7 @@ application.get('/tweet', function (req, res) {
         sentenceUpperBound: 7,
     })
 
-    res.send(JSON.stringify({ response: `${sentence} #gcdigital` }));
+    res.send(JSON.stringify({ response: `${sentence} #gc #gcdigital` }));
 })
 
 var port = process.env.PORT || 5000;
