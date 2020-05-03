@@ -1,11 +1,13 @@
-5G
+acceleration
 accessibility
+acronym
 acting
 action plan
 actionable
 ad hoc
 agency
 agile
+alignment
 analyst
 appointment
 approval
@@ -13,6 +15,7 @@ artefact
 assignment
 ATIP-able
 backchannel
+bandwidth
 bed bugs
 best practice
 bi-lat
@@ -23,20 +26,25 @@ blockchain
 blue sky
 boardroom
 bureaucracy
+buy in
+buzzword
 champion
 change fatigue
 change management
 chatbot
-citizens
+citizen
+classified
 client-centric
 cloud to ground
 co-design
 collaborative
 collective agreement
+commitee
 comms
 compliance
 confidential
 conflict of interest
+contribution
 cost center
 critical
 cubicle
@@ -46,6 +54,7 @@ data
 data center
 data lake
 data science
+data sovereignty
 debrief
 deck
 deep dive
@@ -87,6 +96,7 @@ growth hacking
 guideline
 hackathon
 hashtag
+heavy lifting
 high level
 human-centred
 ideation
@@ -94,9 +104,12 @@ ignite
 impartial
 incentivize
 incidental
+inclusive
+incubator
 indeterminate
 innolab
 input
+insight
 intern
 internet explorer
 invite
@@ -117,18 +130,25 @@ meeting
 meeting of the minds
 memorandum of understanding
 micro-mission
-microservices
+microservice
 mission statement
+monolith
+new normal
 nextgen
 onboarding
 open call
 open government
-org chart
+open source
+open standards
+org-chart
 out of office
 outlook
+outreach
 oversight
 parliament
+parking lot
 pensionable
+pdf
 perception
 performance indicator
 Phoenix
@@ -136,11 +156,16 @@ pizza party
 placemat
 policy
 portage
+powerpoint
 prebrief
+proactive disclosure
 process
 procurement
+program
 promotion
+Protected A
 Protected B
+Protected C
 public opinion
 public purse
 public servant
@@ -148,6 +173,7 @@ quick win
 re-imagine
 regulations
 reinvent
+reliability
 renewal
 request for information
 request for proposal
@@ -155,26 +181,33 @@ responsive
 result
 risk
 roadmap
+root cause
 scalability
 scenario
 secondment
 section 32
 service design
+silo
 social innovation
 solutionize
+spreadsheet
 stakeholder
+standard
 statement of work
 steering committee
 stewardship
 sticky note
 storytelling
 strategic
+streamline
 stress leave
 sub-committee
 subject matter expert
 summit
 system outage
+talent
 takeaway
+taskforce
 taxi chit
 technovation
 teleworking
@@ -182,7 +215,9 @@ term
 the crown
 touch base
 track changes
+transformation
 translation
+transparent
 treasury
 twitter
 union
@@ -193,8 +228,10 @@ walk the talk
 waterfall
 web 2.0
 WebEx
+webinar
 whiteboard
 wordsmith
 working group
 Workplace 2.0
 workshop
+zoom
