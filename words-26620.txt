@@ -14,6 +14,7 @@ approval
 artefact
 assignment
 ATIP-able
+authority delegation
 backchannel
 bandwidth
 bed bugs
@@ -25,6 +26,7 @@ BlackBerry
 blockchain
 blue sky
 boardroom
+bring forward
 bureaucracy
 buy in
 buzzword
@@ -69,6 +71,7 @@ digital transformation
 digitization
 directive
 director
+Directorate
 disrupt
 diversity
 end-to-end
@@ -125,6 +128,7 @@ low hanging fruit
 lunch and learn
 mainstream
 manage up
+management
 mandate
 measure
 meeting
@@ -134,6 +138,7 @@ micro-mission
 microservice
 mission statement
 monolith
+MS Teams
 new normal
 nextgen
 onboarding
@@ -179,7 +184,7 @@ renewal
 request for information
 request for proposal
 responsive
-result
+results
 risk
 roadmap
 root cause
@@ -210,6 +215,7 @@ system outage
 talent
 takeaway
 taskforce
+tasking
 taxi chit
 technovation
 teleworking
