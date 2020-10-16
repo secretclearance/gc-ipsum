@@ -9,6 +9,7 @@ agency
 agile
 alignment
 analyst
+analysis paralysis
 appointment
 approval
 artefact
@@ -23,6 +24,7 @@ bi-lat
 big data
 big picture
 BlackBerry
+blocker
 blockchain
 blue sky
 boardroom
@@ -64,6 +66,7 @@ deep web
 delegation authority
 deliverology
 deployment
+design sprint
 design thinking
 DevOps
 digital capacity
@@ -150,6 +153,7 @@ open source
 open standards
 org-chart
 out of office
+outcome
 outlook
 outreach
 oversight
@@ -162,6 +166,7 @@ performance indicator
 Phoenix
 pizza party
 placemat
+playbook
 policy
 portage
 powerpoint
@@ -188,10 +193,13 @@ request for proposal
 responsive
 results
 risk
+roadblock
 roadmap
 root cause
 scalability
 scenario
+scope
+scope creep
 secondment
 section 32
 security
@@ -230,6 +238,7 @@ transformation
 translation
 transparent
 treasury
+tri-lat
 twitter
 union
 unconference
@@ -238,12 +247,10 @@ value added
 viral
 walk the talk
 waterfall
-web 2.0
 WebEx
 webinar
 whiteboard
 wordsmith
 working group
-Workplace 2.0
 workshop
 zoom
