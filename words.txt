@@ -7,9 +7,10 @@ actionable
 ad hoc
 agency
 agile
+agreement
 alignment
-analyst
 analysis paralysis
+analyst
 appointment
 approval
 artefact
@@ -23,13 +24,15 @@ best practice
 bi-lat
 big data
 big picture
+bio break
 BlackBerry
-blocker
 blockchain
+blocker
 blue sky
 boardroom
 bring forward
 bureaucracy
+bureaucrat
 buy in
 buzzword
 champion
@@ -37,6 +40,7 @@ change fatigue
 change management
 chatbot
 citizen
+civil
 classified
 client-centric
 cloud to ground
@@ -86,10 +90,12 @@ evangelist
 evergreen
 executive
 exempt
+fax
 feedback
 file
 finance
 fiscal
+flip chart
 flip me
 framework
 free agent
@@ -115,9 +121,11 @@ incidental
 inclusive
 incubator
 indeterminate
+initiative
 innolab
 input
 insight
+interim
 intern
 internet explorer
 invite
@@ -157,10 +165,10 @@ outcome
 outlook
 outreach
 oversight
-parliament
 parking lot
-pensionable
+parliament
 pdf
+pensionable
 perception
 performance indicator
 Phoenix
@@ -171,6 +179,7 @@ policy
 portage
 powerpoint
 prebrief
+privacy
 proactive disclosure
 process
 procurement
@@ -192,10 +201,12 @@ request for information
 request for proposal
 responsive
 results
+return to work
 risk
 roadblock
 roadmap
 root cause
+sabbatical
 scalability
 scenario
 scope
@@ -223,8 +234,8 @@ sub-committee
 subject matter expert
 summit
 system outage
-talent
 takeaway
+talent
 taskforce
 tasking
 taxi chit
@@ -241,8 +252,8 @@ transparent
 treasury
 tri-lat
 twitter
-union
 unconference
+union
 value
 value added
 viral
@@ -251,7 +262,9 @@ waterfall
 WebEx
 webinar
 whiteboard
+word cloud
 wordsmith
 working group
+workplace 2.0
 workshop
 zoom
